@@ -2,8 +2,6 @@
 # DDN 💻️🔒🕵️‍♂️👨‍💻🤖
 <br>
 
-<p align="left"> <a href="https://twitter.com/ddnx00" target="blank"><img src="https://img.shields.io/twitter/follow/ddnx00?logo=twitter&style=for-the-badge" alt="ddnx00" /></a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddn0x&show_icons=true&theme=onedark&locale=en" alt="ddn0x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddn0x&theme=onedark" alt="ddn0x" /></p>
