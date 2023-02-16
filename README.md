@@ -10,7 +10,7 @@
 <!--  -->
 <code>E-mail para contato : ddndev@proton.me</code>
  
- <p> <code>FERRAMENTAS </code> <span id="b">:</span><br><br>
+ <p> <code>Projetos </code> <span id="b">:</span><br>
   <a href="https://username.42web.io/" style="color:blue;"> ( Username - Osint )  </a> Permite buscar informações sobre um determinado usuário em diversos sites de redes sociais. <br> O objetivo da ferramenta é auxiliar na busca de informações públicas disponíveis na internet.</p>
 <p><a href="https://dns-ports.42web.io" style="color:blue;"> ( Subdomínios e Portas Abertas )  </a>Permite a busca de subdomínios de um determinado domínio e a verificação de portas abertas nesses subdomínios.</p>
    <p>
